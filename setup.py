@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="dumptool",
-    version="0.0.1",
+    version="0.0.2",
     author="MEK",
     author_email="plural.xamp@gmail.com",
     description="A small mathematics library",

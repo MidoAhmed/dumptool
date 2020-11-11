@@ -12,7 +12,7 @@ pip install dumptool
 > Usage:
 
 ```
-from dumptool import *
+from dumptool import dump
 
 obj = SimpeObject()
 dump(obj)
